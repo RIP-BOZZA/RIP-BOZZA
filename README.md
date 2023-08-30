@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RIP-BOZZA
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning python
+- 👀 I’m interested in technology
+- 🌱 I’m currently Backend developer
 
 
 <!---
